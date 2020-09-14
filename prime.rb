@@ -7,5 +7,5 @@ else
   n != #prime number
   return false
 end 
-
+end
 end 
