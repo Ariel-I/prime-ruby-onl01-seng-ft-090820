@@ -1,9 +1,9 @@
 def prime?(integer=[])
   while i = integer.prime
- return true 
+ return "true" 
 else
   n != integer.prime
-  return false
+  return "false"
 end 
 end
 
