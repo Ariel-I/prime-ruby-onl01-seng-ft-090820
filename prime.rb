@@ -1,5 +1,5 @@
-def prime?(integer=[])
-  sieve.integer.include?
+def prime?(integer)
+  sieve(integer).include(integer)?
  end 
 
 
