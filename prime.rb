@@ -1,9 +1,9 @@
 def prime?(integer=[])
   if i <= 1
- return "false" 
+ return false 
 else
   i <= 3
-  return "true"
+  return true
 end 
 end
 
