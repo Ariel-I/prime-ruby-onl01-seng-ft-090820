@@ -1,9 +1,11 @@
 def prime?(integer=[])
   if i <= 1
  return false 
-else
+elsif
   i <= 2
   return true
+else
+  
 end 
 end
 
