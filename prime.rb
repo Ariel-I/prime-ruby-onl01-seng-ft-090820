@@ -2,10 +2,10 @@ def prime?(integer=[])
   integer.prime? do |i|
   
   while i = #prime number
- i = true 
+ return true 
 else
   n != #prime number
-  =false
+  return false
 end 
 
 end 
