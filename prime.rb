@@ -3,7 +3,7 @@ def prime?(integer=[])
  return false 
 elsif i <= 2
   return true
-else (2../2).none 
+else (2../2).none do |n|
   
 end 
 end
